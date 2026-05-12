@@ -6,7 +6,7 @@ This project demonstrates how modern distributed backend systems are designed fo
 
 * High availability
 * Low latency redirects
-* Massive traffic handling
+* Massive traffic handling 
 * Analytics processing
 * Fault tolerance
 * Horizontal scalability
