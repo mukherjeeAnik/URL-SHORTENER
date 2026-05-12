@@ -2,7 +2,7 @@
 
 A scalable, production-ready URL shortening platform built using **Spring Boot**, **Redis**, **PostgreSQL**, **Kafka**, **Docker**, and **Kubernetes**.
 
-This project demonstrates how modern distributed backend systems are designed for:
+This project demonstrates how modern distributed backend systems are designed for: 
 
 * High availability
 * Low latency redirects
